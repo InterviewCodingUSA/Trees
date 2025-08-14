@@ -4,3 +4,4 @@ Binary Tree code and interview questions
 2. Pre, In and Post order traversals for Binary Tree. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/PreInPostOrder/PreInPostOrder/src)
 3. DFS in a Bin Tree. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/DFS/DFSExample/src)
 4. Max depth of a binary tree. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/MaxDepth/MaxDepth/src)
+5. Same Tree. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/SameTree/SameTree/src) 
