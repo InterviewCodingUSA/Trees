@@ -52,7 +52,6 @@ public class BinTree<T extends Comparable<T>> {
         }
     }
 
-
     public void minNodeAtEachLevel() {
         if (root == null) {
             return;

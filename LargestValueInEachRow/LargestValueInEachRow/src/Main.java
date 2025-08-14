@@ -5,7 +5,6 @@ public class Main {
         BinTree<Integer> tree = getTree();
         tree.maxNodeAtEachLevel();
         tree.minNodeAtEachLevel();
-
     }
     // Creates and returns a binary tree with a predefined structure
     // The tree is constructed with integer values as follows:
