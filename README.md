@@ -12,3 +12,4 @@ Binary Tree code and interview questions
 10. Diameter of a tree. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/DiameterOfTree/DiameterOfTree)
 11. Print Left View. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/PrintLeftView/PrintLeftView/src)
 12. Print Right View. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/PrintRightView/PrintRightView/src)
+13. Print Zig Zag. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/PrintZigZag/PrintZigZag)
