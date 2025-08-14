@@ -16,3 +16,4 @@ Binary Tree code and interview questions
 14. Print Top View. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/PrintTopView/PrintTopView/src)
 15. Print Bottom View. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/PrintBottomView/PrintBottomView/src)
 16. Max and Min values at each level. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/LargestValueInEachRow/LargestValueInEachRow/src)
+17. Max and min depth of a tree. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/MinDepthOfBinaryTree/MinDepth/src)
