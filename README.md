@@ -9,3 +9,4 @@ Binary Tree code and interview questions
 7. Print All Paths. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/PrintAllPaths/PrintAllPaths/src)
 8. Get All Paths. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/GetAllPaths/GetAllPaths/src)
 9. Mirror Tree or Invert Tree. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/MirrorTree/MirrorTree/src)
+10. Diameter of a tree. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/DiameterOfTree/DiameterOfTree)
