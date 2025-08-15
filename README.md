@@ -23,3 +23,4 @@ Binary Tree code and interview questions
 21. Path sum 3 return all paths where Sum of any node to another node = target. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/PathSum3SumFromNodeToNodeEqualTarget/PathSum3NodeToNodeEqualTarget/src)
 22. Average of Levels. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/AverageOfLevels/AverageOfLevels/src)
 23. Max Level Sum. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/MaxLevelSum/MaxLevelSum/src)
+24. Even odd tree. [Code link](https://github.com/InterviewCodingUSA/Trees/tree/main/EvenOddTree/EvenOddTree/src).
