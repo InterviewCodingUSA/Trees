@@ -24,3 +24,4 @@ Binary Tree code and interview questions
 22. Average of Levels. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/AverageOfLevels/AverageOfLevels/src)
 23. Max Level Sum. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/MaxLevelSum/MaxLevelSum/src)
 24. Even odd tree. [Code link](https://github.com/InterviewCodingUSA/Trees/tree/main/EvenOddTree/EvenOddTree/src).
+25. Count Good nodes. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/CountGoodNodes/CountGoodNodes/src)
