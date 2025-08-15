@@ -21,3 +21,4 @@ Binary Tree code and interview questions
 19. Lowest common ancestor Recursive. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/LowestCommonAncestor/LowestCommonAncestor/src)
 20. Path Sum 2 return all paths where Sum of root to leaves = target. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/PathSum2GetAllPathsWithTarget/PathSum2GetAllPaths/src)
 21. Path sum 3 return all paths where Sum of any node to another node = target. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/PathSum3SumFromNodeToNodeEqualTarget/PathSum3NodeToNodeEqualTarget/src)
+22. Average of Levels. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/AverageOfLevels/AverageOfLevels/src)
