@@ -25,3 +25,4 @@ Binary Tree code and interview questions
 23. Max Level Sum. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/MaxLevelSum/MaxLevelSum/src)
 24. Even odd tree. [Code link](https://github.com/InterviewCodingUSA/Trees/tree/main/EvenOddTree/EvenOddTree/src).
 25. Count Good nodes. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/CountGoodNodes/CountGoodNodes/src)
+26. Longest ZigZag path. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/LongestZigZagPath/LongestZigZagPath/src).
