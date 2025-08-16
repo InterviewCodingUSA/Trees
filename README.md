@@ -28,3 +28,4 @@ Binary Tree code and interview questions
 26. Longest ZigZag path. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/LongestZigZagPath/LongestZigZagPath/src).
 27. Delete Leaf with a target value. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/DeleteLeafNode/DeleteLeafNode/src)
 28. Deepest level Sum. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/DeepestLeafSum/DeepestLeafSum/src)
+29. Level order traversal. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/LevelOrder/LevelOrder/src)
