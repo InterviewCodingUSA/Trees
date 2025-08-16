@@ -26,3 +26,4 @@ Binary Tree code and interview questions
 24. Even odd tree. [Code link](https://github.com/InterviewCodingUSA/Trees/tree/main/EvenOddTree/EvenOddTree/src).
 25. Count Good nodes. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/CountGoodNodes/CountGoodNodes/src)
 26. Longest ZigZag path. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/LongestZigZagPath/LongestZigZagPath/src).
+27. Delete Leaf with a target value. [Code Link](https://github.com/InterviewCodingUSA/Trees/tree/main/DeleteLeafNode/DeleteLeafNode/src) 
