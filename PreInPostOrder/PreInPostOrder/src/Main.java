@@ -1,10 +1,15 @@
+import java.io.Console;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
         BinTree<Integer> tree = getTree();
+        System.out.print("PreOrder: ");
         tree.preOrder();
+        System.out.print("InOrder: ");
         tree.inOrder();
+        System.out.print("PostOrder: ");
         tree.postOrder();
     }
 
