@@ -9,16 +9,27 @@ public class BinTree<T extends Comparable<T>> {
         this.root = null;
     }
 
-    public boolean areSymmetricTrees(Node<T> node1, Node<T> node2){
+    // Determines whether this tree is a mirror of itself around its center,
+    // i.e. the left subtree is a mirror reflection of the right subtree.
+    public boolean isSymmetric(){
+        return isMirror(root, root);
+    }
+
+    // Two nodes are mirrors of each other when their values match and each
+    // node's left child mirrors the other node's right child (and vice versa).
+    private boolean isMirror(Node<T> node1, Node<T> node2){
         if(node1 == null && node2 == null){
             return true;
         }
         if(node1 == null || node2 == null){
             return false;
         }
+        if(!node1.data.equals(node2.data)){
+            return false;
+        }
 
-        return  areSymmetricTrees(node1.left, node2.left) &&
-                areSymmetricTrees(node1.right, node2.right);
+        return  isMirror(node1.left, node2.right) &&
+                isMirror(node1.right, node2.left);
     }
 
 }
